@@ -1,6 +1,6 @@
 # uniswap-lib
 
-Solidity libraries that are shared across Uniswap contracts. This package focuses on safety and execution gas efficiency.
+Fork of Solidity libraries which are shared across Uniswap contracts. This package focuses on safety and execution gas efficiency.
 
 ## Install
 
@@ -17,6 +17,6 @@ Install this in another project via `yarn add @monarch/lib`
 Then import the contracts via:
 
 ```solidity
-import '@lootswap/lib/contracts/libraries/Babylonian.sol';
+import '@monarch/lib/contracts/libraries/Babylonian.sol';
 
 ```
