@@ -1,5 +1,5 @@
 {
-  "name": "@monarch/lib",
+  "name": "@project-monarch/lib",
   "version": "2.0.0",
   "description": "Solidity libraries that are shared across Monarch contracts",
   "files": [
@@ -7,11 +7,11 @@
     "!contracts/test"
   ],
   "repository": {
-    "url": "https://github.com/Project-Monarch/monarch-lib",
+    "url": "https://github.com/Project-Monarch/project-monarch-lib",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/Project-Monarch/monarch-lib/issues"
+    "url": "https://github.com/Project-Monarch/project-monarch-lib/issues"
   },
   "engines": {
     "node": "^16.0.0"

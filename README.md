@@ -12,11 +12,11 @@ Run `yarn test` to execute the test suite.
 
 ## Usage
 
-Install this in another project via `yarn add @monarch/lib`
+Install this in another project via `yarn add @project-monarch/lib`
 
 Then import the contracts via:
 
 ```solidity
-import '@monarch/lib/contracts/libraries/Babylonian.sol';
+import '@project-monarch/lib/contracts/libraries/Babylonian.sol';
 
 ```
